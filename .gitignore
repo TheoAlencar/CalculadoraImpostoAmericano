@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Pastas e arquivos do IntelliJ
+.idea/
+*.iml
+
+# Arquivos de build
+out/
+build/
+
+# Arquivos temporários
+*.log
+*.tmp
